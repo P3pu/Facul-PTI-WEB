@@ -517,7 +517,7 @@ footer .icons img:hover {
 @media screen and (max-height: 500px) and (orientation: landscape) {
   .container .introduce,
   .container .desenvolvimento2,
-  .container .contato,
+  .container .contato,git remote -v
   .container .formContato {
     min-height: auto;
     padding: 1rem;
